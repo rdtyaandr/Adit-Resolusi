@@ -1,0 +1,7 @@
+RENCANA KONTEN
+- JavaScript
+ #E56
+ #Framework Js
+- PHP
+- CSS
+- HTML

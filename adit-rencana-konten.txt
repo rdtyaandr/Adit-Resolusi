@@ -2,7 +2,10 @@ RENCANA KONTEN
 - JavaScript
  #E56
  #Framework Js
+  Vue
 - Struktur data dasar
 - PHP
+  Laravel
 - CSS
 - HTML
+- Phton

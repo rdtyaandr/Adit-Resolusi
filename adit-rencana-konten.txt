@@ -2,6 +2,7 @@ RENCANA KONTEN
 - JavaScript
  #E56
  #Framework Js
+- Struktur data dasar
 - PHP
 - CSS
 - HTML
